@@ -1,9 +1,11 @@
 # Hi there! 👋
 
 I'm Mohamed, a software developer passionate about creating web applications and solving problems. 
-<div align="right">
-  <a href="https://app.daily.dev/mohamedelazab"><img src="https://api.daily.dev/devcards/fefe4319b6a843d3bb73ff3918706908.png?r=f15" width="200" alt="Mohamed Elazab's Dev Card"/></a>
-</div>
+<div>
+  <div align="right">
+    <a href="https://app.daily.dev/mohamedelazab"><img src="https://api.daily.dev/devcards/fefe4319b6a843d3bb73ff3918706908.png?r=f15" width="200" alt="Mohamed Elazab's Dev Card"/></a>
+  </div>
+  <div align="left">
 ## 🔧 Technologies & Tools
 
 - PHP Laravel
@@ -13,6 +15,9 @@ I'm Mohamed, a software developer passionate about creating web applications and
 - C#
 - Git
 - HTML/CSS
+  </div>
+</div> 
+
 
 ## 🌱 Currently Learning
 
