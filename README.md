@@ -28,8 +28,9 @@ Here are a few projects I'm proud of:
 
 Feel free to reach out and connect with me. I'm always open to collaboration and new opportunities.
 
-<a href="https://app.daily.dev/mohamedelazab"><img src="https://api.daily.dev/devcards/fefe4319b6a843d3bb73ff3918706908.png?r=f15" width="200" alt="Mohamed Elazab's Dev Card"/></a>
-
 </div>
 
+<div align="right">
+  <a href="https://app.daily.dev/mohamedelazab"><img src="https://api.daily.dev/devcards/fefe4319b6a843d3bb73ff3918706908.png?r=f15" width="200" alt="Mohamed Elazab's Dev Card"/></a>
 
+</div>
