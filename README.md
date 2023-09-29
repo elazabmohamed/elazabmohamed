@@ -1,11 +1,11 @@
-<div align="left">
+<div align="right">
   <a href="https://app.daily.dev/mohamedelazab"><img src="https://api.daily.dev/devcards/fefe4319b6a843d3bb73ff3918706908.png?r=f15" width="200" alt="Mohamed Elazab's Dev Card"/></a>
-  # Hi there! 👋
+</div>
+
+# Hi there! 👋
 
 I'm Mohamed, a software developer passionate about creating web applications and solving problems. 
 ## 🔧 Technologies & Tools
-</div>
-
 
 - PHP Laravel
 - React
