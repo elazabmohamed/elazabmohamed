@@ -1,5 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
-
+<a href="https://app.daily.dev/mohamedelazab"><img src="https://api.daily.dev/devcards/fefe4319b6a843d3bb73ff3918706908.png?r=f15" width="400" alt="Mohamed Elazab's Dev Card"/></a>
 # Hi there! 👋
 
 I'm Mohamed, a software developer passionate about creating web applications and solving problems. 
