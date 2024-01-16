@@ -6,25 +6,26 @@ I'm Mohamed, a software developer passionate about creating web applications and
 
 ## 🔧 Technologies & Tools
 
+- Reactjs
 - PHP Laravel
-- React
 - Python
 - Java
 - C#
-- Git
 - HTML/CSS
+- Figma
 
 
 
 ## 🌱 Currently Learning
 
-I'm always eager to learn new things and improve my skills. Right now, I'm focused on mastering front-end.
+Right now, I'm focused on mastering front-end.
 
 
 ## 🚀 Projects
 
 Here are a few projects I'm proud of:
 
+- [Flight Search](https://github.com/elazabmohamed/flight-search-ui) - A flight search application made using reactjs and material ui.
 - [Quiz System](https://github.com/elazabmohamed/quiz-system) - A quiz system made using PHP Laravel and Bootstrap.
 - [Covid-19 Forecasting](https://github.com/nafizcntz/Covid19-Tr-Forecasting) - Forecasting Covid-19 cases and analyzing them using ML models.
 
